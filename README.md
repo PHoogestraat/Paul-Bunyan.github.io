@@ -1,2 +1,2 @@
-# Paul-Bunyan.github.io
+# Paul Bunyan.github.io
 web page development

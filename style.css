@@ -21,7 +21,7 @@ h3 {
 
 body {
     padding: 0;
-    margin-right: 100px;
+   
     margin-left: 100px;
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 18px;
@@ -44,8 +44,9 @@ section {
 }
 
 p {
-  font-size: 18px;
+  font-size: 24px;
   color: #0f0101;
+  margin-left: 20px;
 }
 
 ul {
